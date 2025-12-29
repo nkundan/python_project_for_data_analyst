@@ -25,3 +25,24 @@ Pandas – data manipulation
 NumPy – numerical operations
 
 Matplotlib & Seaborn – data visualization
+📊 Key Analysis Performed
+
+Data cleaning and preprocessing
+
+Exploratory Data Analysis (EDA)
+
+Gender-wise and age-wise purchasing trends
+
+State-wise and occupation-wise sales comparison
+
+Product category and product-level analysis
+
+📈 Sample Insights
+
+Married women aged 26–35 years contribute the most to sales
+
+Top sales come from IT, Healthcare, and Aviation sectors
+
+Highest sales observed in Uttar Pradesh, Maharashtra, and Karnataka
+
+Food, Clothing, and Electronics are top-selling categories
